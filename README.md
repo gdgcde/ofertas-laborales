@@ -18,7 +18,7 @@ Agrege _labels_ conteniendo el nivel de experiencia deseada y el formato de cont
 
 
 #### Todas las ofertas laborales deben tener el nombre de la empresa que esta contratando
-Si usted es un reclutador, debe identificar el nombre de la empresa donde candidato irá trabajar
+Si usted es un reclutador, debe identificar el nombre de la empresa donde el candidato irá trabajar
 
 #### Las ofertas laborales deben ser en Guaranies
 No se aceptarán empresas creando una base de datos de currículos
