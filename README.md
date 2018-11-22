@@ -6,7 +6,7 @@ Ofertas disponibles en link: https://github.com/gdgcde/ofertas-laborales/issues
 
 ### Registro de una oferta laboral
 
-Cree una **issue** en link: https://github.com/gdgcde/ofertas-laborale/issues/new
+Cree una **issue** en link: https://github.com/gdgcde/ofertas-laborales/issues/new
 
 La issue tiene una plantilla específica, basta con editarla como desee. En el título del asunto, coloque el nombre de la ciudad entre corchetes, seguida del nombre de la oferta laboral y el nombre de la empresa
 
