@@ -2,11 +2,11 @@
 
 Espacio para publicación de ofertas laborales para la región de Alto Paraná, utilizando issues de GitHub. Las ofertas registradas serán automáticamente compartido en el canal del GDG CDE. No es necesario participar del Slack para enviar una oferta.
 
-Ofertas disponibles en link: https://github.com/gdgcde/ofertas-laborales/issues
+Ofertas disponibles en este link: https://github.com/gdgcde/ofertas-laborales/issues
 
 ### Registro de una oferta laboral
 
-Cree una **issue** en link: https://github.com/gdgcde/ofertas-laborales/issues/new
+Cree una **issue** en este link: https://github.com/gdgcde/ofertas-laborales/issues/new
 
 La issue tiene una plantilla específica, basta con editarla como desee. En el título del asunto, coloque el nombre de la ciudad entre corchetes, seguida del nombre de la oferta laboral y el nombre de la empresa
 
