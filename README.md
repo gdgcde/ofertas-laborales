@@ -1,31 +1,30 @@
-# Vagas - Android Dev BR
+# Ofertas Laborales - Alto Paraná
 
-Espaço para a divulgação de vagas para desenvolvedores Android, utilizando via issues do GitHub. As vagas adicionadas neste mural serão automaticamente compartilhadas no canal #job-alerts do nosso Slack. Não é necessário participar do Slack para enviar uma vaga.
+Espacio para publicación de ofertas laborales para la region de Alto Paraná, utilizando issues de GitHub. Las ofertas registradas serán automáticamente compartido en el canal del GDG CDE. No es necesario participar del Slack para enviar una oferta.
 
-Vagas disponíveis no link: https://github.com/androiddevbr/vagas/issues
+Ofertas disponibles en link: https://github.com/gdgcde/ofertas-laborales/issues
 
-### Cadastrando uma vaga
+### Registro de una oferta laboral
 
-Crie uma **issue** no link: https://github.com/androiddevbr/vagas/issues/new
+Cree una **issue** en link: https://github.com/gdgcde/ofertas-laborale/issues/new
 
 A issue tem um template específico, basta você editá-lo como desejar. No título da issue, coloque o nome da cidade entre colchetes, seguida do nome da vaga e o nome da empresa, exemplo:
 
-`[Cidade, Estado] Desenvolvedor Android [JUNIOR|PLENO|SENIOR] | ACME LTDA`
+La issue tiene una plantilla específica, basta con editarla como desee. En el título del asunto, coloque el nombre de la ciudad entre corchetes, seguida del nombre de la oferta laboral y el nombre de la empresa
 
-Adicione _labels_ contendo o nível de experiência desejada e o formato de contração. 
+`[Ciudad, Departamento] Desarrollador Android [JUNIOR|PLENO|SENIOR] | NOMBRE EMPRESA S.A`
+
+Agrege _labels_ conteniendo el nivel de experiencia deseada y el formato de contratación. 
 
 ### Código de Conduta
-Visando manter a transparência com todos os membros de nossa comunidade, além de obedecer o [Código de Conduta da comunidade do Android Dev BR](https://github.com/androiddevbr/codigo-de-conduta), as vagas postadas nesse mural devem seguir as regras descritas a seguir.
 
-#### Todas as vagas devem conter o nome da empresa que está contratando
-Se você é um recrutador, você deve identificar o nome da empresa em que o candidato irá trabalhar
 
-#### As vagas devem ser reais
-Não serão aceitas empresas montando banco de currículos
+#### Todas las ofertas laborales deben tener el nombre de la empresa que esta contratando
+Si usted es un reclutador, deve identificar el nombre de la empresa en el que el candidato irá trabajar
 
-#### Não serão aceitas vagas discriminatórias 
+#### Las ofertas laborales deben ser en Guaranies
+No se aceptarán empresas creando una base de datos de currículos
 
-#### Somente vagas para comunidade Android
-  - Para Backend utilize: https://github.com/backend-br/vagas
-  - Para Front-end utilize: https://github.com/frontendbr/vagas
-  - Para iOS ou macOS utilize: https://github.com/CocoaHeadsBrasil/vagas
+#### No se aceptarán ofertas laborales discriminatorias
+
+#### Solamente ofertas laborales para la región de Alto Paraná
