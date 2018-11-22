@@ -1,48 +1,40 @@
-# Informações importantes
-Para que as vagas enviadas neste mural sejam categorizadas com as labels, as mesmas devem seguir as seguintes regras:
-1. Todas as vagas enviadas neste mural devem estar de acordo com o Código De Conduta da nossa comunidade: https://github.com/androiddevbr/codigo-de-conduta. Vagas que violem este Código de Conduta serão automaticamente editadas e encerradas pela equipe de moderação.
-2. Procure utilizar termos e descrições que façam o mínimo de distinção de gênero. Por exemplo, utilize "Desenvolvedor(a)", "Programador ou Programadora" ou "Pessoa".
-3. Adicione links ou descreva as políticas de inclusão, não discriminação e afins adotadas pela empresa.
-4. As vagas enviadas neste mural serão automaticamente divulgadas no canal #job-alerts do Slack da nossa comunidade.
-5. Remova este bloco inicial antes de divulgar a vaga.
+## Descripción de la Oferta Laboral
 
-## Descrição da vaga
-
-Projeto de desenvolvimento de um app de corrida, etc.
+Proyecto de desarrollo de una App para el sector hotelero, etc.
 
 ## Local
 
-Remoto ou Escritório São Paulo - Vila Olímpia
+Remoto o oficina en Ciudad del Este
 
 ## Benefícios
 
-- 2 horas de almoço
-- monte a sua máquina como desejar
-- frigobar sempre cheio :P
-- sala de jogos
+- 1 horas de almuerzo
+- IPS
+- Horario flexible
+- sala de juegos
 - ...
 
 ## Requisitos
 
-Obrigatórios
-- 3+ anos de experiência com Android
-- Confortável com padrão MVP, MVC, MVVM e derivados
+Obligatorios
+- 2+ años de experiencia en Android
+- Arquitectura MVP, MVC y derivados
 
-Desejáveis
-- Experiência com Espresso e UI Automator
-- Experiência com RxJava
+Deseables
+- Experiencia con Android
+- Experiencia utilizando RxJava, RxAndroid
 
-Diferenciais
-- Projetos opensource
+Diferenciales
+- Proyetos opensource
 
-## Contratação
+## Contratación
 
-PJ a combinar
+A combinar según experiencia
 
-## Nossa empresa
+## Nuestra empresa
 
-Aqui na Corporação ACME somos líderes em...
+Aqui en la EMPRESA somos líderes en...
 
-## Como se candidatar
+## Como se puede candidatar
 
-Por favor envie um email para email@email.com.br com seu CV anexado - enviar no assunto: Vaga Android
+Por favor, envie un email para email@email.com.py con su CV anexado - asunto: Oferta Laboral Android
